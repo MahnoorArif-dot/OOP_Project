@@ -1,0 +1,9 @@
+NAME:	Alisha Shahid
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		18		16		19		53		D	1.7
+Quran		32		20		32		84		A	3.8
+I.Study		27		20		29		76		B+	3.6
+DLD		18		16		35		69		C+	2.7
+Prob		18		23		29		70		B-	3.0
+CPS		28		19		29		76		B+	3.6
+CGPA:	2.93
