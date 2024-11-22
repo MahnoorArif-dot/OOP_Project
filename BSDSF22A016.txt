@@ -1,0 +1,9 @@
+NAME:	Abdullah Kashif
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		28		16		28		72		B	3.3
+Quran		30		20		33		83		A	3.8
+I.Study		28		22		33		83		A	3.8
+DLD		28		18		25		71		B	3.3
+Prob		28		24		28		80		A	3.8
+CPS		22		20		28		70		B-	3.0
+CGPA:	3.44
