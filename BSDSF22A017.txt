@@ -1,0 +1,9 @@
+NAME:	Malaika Saqib
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		30		20		27		77		B+	3.6
+Quran		25		20		34		79		B+	3.6
+I.Study		29		22		34		85		A+	4.0
+DLD		27		20		28		75		B+	3.6
+Prob		27		20		27		74		B	3.3
+CPS		23		20		27		70		B-	3.0
+CGPA:	3.47
