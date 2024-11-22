@@ -1,0 +1,9 @@
+NAME:	Noor ul ain
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		25		20		31		76		B+	3.6
+Quran		25		20		31		76		B+	3.6
+I.Study		28		22		36		86		A+	4.0
+DLD		27		15		31		73		B	3.3
+Prob		25		23		31		79		B+	3.6
+CPS		23		20		31		74		B	3.3
+CGPA:	3.53

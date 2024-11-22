@@ -1,0 +1,9 @@
+NAME:	Sidra Siddique
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		27		13		21		61		C	2.0
+Quran		27		20		38		85		A+	4.0
+I.Study		26		23		30		79		B+	3.6
+DLD		25		19		27		71		B	3.3
+Prob		18		20		21		59		D	1.7
+CPS		25		13		21		59		D	1.7
+CGPA:	2.49
