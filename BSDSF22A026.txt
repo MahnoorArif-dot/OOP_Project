@@ -1,0 +1,9 @@
+NAME:	Muhammad Maqsood
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		29		20		32		81		A	3.8
+Quran		29		20		32		81		A	3.8
+I.Study		29		21		32		82		A	3.8
+DLD		26		18		34		78		B+	3.6
+Prob		11		24		32		67		C+	2.7
+CPS		23		20		32		75		B+	3.6
+CGPA:	3.50

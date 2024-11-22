@@ -1,0 +1,9 @@
+NAME:	Rayyan Sheikh
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		19		15		24		58		D	1.7
+Quran		28		20		22		70		B-	3.0
+I.Study		31		25		36		92		A+	4.0
+DLD		18		17		25		60		C	2.0
+Prob		19		24		24		67		C+	2.7
+CPS		28		15		32		75		B+	3.6
+CGPA:	2.73
