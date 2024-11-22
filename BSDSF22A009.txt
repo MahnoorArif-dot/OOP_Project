@@ -1,0 +1,9 @@
+NAME:	Hussnain Hameed
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		16		11		28		55		D	1.7
+Quran		27		20		32		79		B+	3.6
+I.Study		26		21		38		85		A+	4.0
+DLD		24		19		28		71		B	3.3
+Prob		16		25		29		70		B-	3.0
+CPS		25		17		28		70		B-	3.0
+CGPA:	2.97

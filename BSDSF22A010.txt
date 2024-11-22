@@ -1,0 +1,9 @@
+NAME:	Mahnnor Arif
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		23		20		25		68		C+	2.7
+Quran		27		20		29		76		B+	3.6
+I.Study		32		22		35		89		A+	4.0
+DLD		25		20		29		74		B	3.3
+Prob		23		23		25		71		B	3.3
+CPS		32		20		25		77		B+	3.6
+CGPA:	3.35

@@ -1,0 +1,9 @@
+NAME:	Talha Nadeem
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		19		20		29		68		C+	2.7
+Quran		23		20		32		75		B+	3.6
+I.Study		27		24		29		80		A	3.8
+DLD		19		22		27		68		C+	2.7
+Prob		19		20		29		68		C+	2.7
+CPS		29		17		29		75		B+	3.6
+CGPA:	3.09

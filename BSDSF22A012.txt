@@ -1,0 +1,9 @@
+NAME:	Tehreem Fatima
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		19		13		27		59		D	1.7
+Quran		30		20		36		86		A+	4.0
+I.Study		28		24		37		89		A+	4.0
+DLD		19		23		28		70		B-	3.0
+Prob		19		23		27		69		C+	2.7
+CPS		29		21		27		77		B+	3.6
+CGPA:	3.00
