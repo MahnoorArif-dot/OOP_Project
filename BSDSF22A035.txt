@@ -1,0 +1,9 @@
+NAME:	Luqman Bashir
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		25		16		28		69		C+	2.7
+Quran		29		20		32		81		A	3.8
+I.Study		29		18		29		76		B+	3.6
+DLD		23		16		35		74		B	3.3
+Prob		17		20		32		69		C+	2.7
+CPS		29		20		32		81		A	3.8
+CGPA:	3.23

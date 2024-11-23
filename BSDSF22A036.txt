@@ -1,0 +1,9 @@
+NAME:	Musqan Yousaf
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		18		11		29		58		D	1.7
+Quran		28		20		37		85		A+	4.0
+I.Study		27		20		28		75		B+	3.6
+DLD		26		18		32		76		B+	3.6
+Prob		16		22		24		62		C	2.0
+CPS		28		19		37		84		A	3.8
+CGPA:	2.97
