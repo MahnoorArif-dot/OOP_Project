@@ -1,0 +1,9 @@
+NAME:	Rehan Sheikh
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		27		20		29		76		B+	3.6
+Quran		29		20		32		81		A	3.8
+I.Study		30		20		30		80		A	3.8
+DLD		26		20		33		79		B+	3.6
+Prob		23		23		31		77		B+	3.6
+CPS		29		20		37		86		A+	4.0
+CGPA:	3.72

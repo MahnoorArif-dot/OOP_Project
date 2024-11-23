@@ -1,0 +1,9 @@
+NAME:	Asad Chaudhary
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		23		17		28		68		C+	2.7
+Quran		26		20		37		83		A	3.8
+I.Study		27		23		37		87		A+	4.0
+DLD		22		22		35		79		B+	3.6
+Prob		27		24		27		78		B+	3.6
+CPS		26		16		37		79		B+	3.6
+CGPA:	3.49
