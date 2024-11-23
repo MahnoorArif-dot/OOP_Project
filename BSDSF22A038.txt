@@ -1,0 +1,9 @@
+NAME:	Khizar Mobeen
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		22		14		25		61		C	2.0
+Quran		25		20		34		79		B+	3.6
+I.Study		27		23		34		84		A	3.8
+DLD		27		14		28		69		C+	2.7
+Prob		15		22		34		71		B	3.3
+CPS		25		18		34		77		B+	3.6
+CGPA:	3.07
