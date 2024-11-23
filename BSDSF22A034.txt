@@ -1,0 +1,9 @@
+NAME:	Mehmood Tahir
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		21		20		30		71		B	3.3
+Quran		30		20		30		80		A	3.8
+I.Study		26		19		30		75		B+	3.6
+DLD		22		17		27		66		C+	2.7
+Prob		19		22		26		67		C+	2.7
+CPS		28		20		30		78		B+	3.6
+CGPA:	3.19
