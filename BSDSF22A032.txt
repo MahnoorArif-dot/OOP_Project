@@ -1,0 +1,9 @@
+NAME:	Aiemen Saleem
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		23		19		25		67		C+	2.7
+Quran		31		20		28		79		B+	3.6
+I.Study		28		21		33		82		A	3.8
+DLD		27		23		29		79		B+	3.6
+Prob		21		22		28		71		B	3.3
+CPS		32		20		28		80		A	3.8
+CGPA:	3.43

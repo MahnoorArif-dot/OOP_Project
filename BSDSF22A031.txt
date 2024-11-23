@@ -1,0 +1,9 @@
+NAME:	Maheen Urfan
+COURSE_TITLE	MID_MARKS	SE.MARKS	FINAL_MARKS	TOTAL_MARKS	GRADES	GPA
+Python		22		18		29		69		C+	2.7
+Quran		30		20		37		87		A+	4.0
+I.Study		29		21		33		83		A	3.8
+DLD		20		22		32		74		B	3.3
+Prob		23		22		32		77		B+	3.6
+CPS		30		20		37		87		A+	4.0
+CGPA:	3.49
